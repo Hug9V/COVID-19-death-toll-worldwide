@@ -115,3 +115,5 @@ Recommendations
 •	Collaboration between countries and organizations to ensure equitable access to vaccines and medical resources.
 
 This executive data analysis report provides a comprehensive overview of the global COVID-19 infection and death toll, particularly the infection rate in the United States; it also highlights the dynamic nature of the COVID-19 pandemic and the importance of data-driven decision-making in public health. Further analysis and data collection will be necessary to monitor the evolving situation and inform future strategies.
+
+Click on the following link to see the dashboard in tableau: https://public.tableau.com/app/profile/hugo.villa7064/vizzes
