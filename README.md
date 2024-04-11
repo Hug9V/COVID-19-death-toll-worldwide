@@ -6,7 +6,7 @@ The COVID-19 pandemic has had a profound impact on countries worldwide, with mil
 
 Data overview
 
-The analysis is based on data collected from Our World in Data, Coronavirus Pandemic (COVID-19) - Our World in Data, licensed under the Creative Commons BY license. The dataset includes information on daily infections and deaths, as well as demographic and geographic data.
+The analysis is based on data collected from Our World in Data, Coronavirus Pandemic (COVID-19) - Our World in Data, licensed under the Creative Commons BY license. The dataset includes information on daily infections and deaths, as well as demographic and geographic data. To see the full project go to the following link: https://mavenanalytics.io/profile/Hugo-Villa/196248405
 
 Project steps:
 
