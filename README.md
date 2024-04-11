@@ -74,8 +74,11 @@ Infection trend andfForecast in the United States alone.
 Infection Rate Comparison with Previous Period in the United States alone.
 
 •	Infections March 16, 2021: 8.93%
+
 •	Infections March 22, 2020: 1.00%
+
 •	This shows roughly an 8.00% increase in population infections over a 12-month period.
+
 •	The monthly percentage increase in population infections would be an impressively high 8.30%.
 
 Conclusion
@@ -85,7 +88,9 @@ The global COVID-19 pandemic remains a significant public health challenge, with
 Recommendations
 
 •	Continued monitoring and analysis of COVID-19 data to identify emerging trends and hotspots.
+
 •	Implementation of targeted public health measures to reduce transmission and protect vulnerable populations.
+
 •	Collaboration between countries and organizations to ensure equitable access to vaccines and medical resources.
 
 This executive data analysis report provides a comprehensive overview of the global COVID-19 infection and death toll, particularly the infection rate in the United States; it also highlights the dynamic nature of the COVID-19 pandemic and the importance of data-driven decision-making in public health. Further analysis and data collection will be necessary to monitor the evolving situation and inform future strategies.
