@@ -10,22 +10,30 @@ The analysis is based on data collected from Our World in Data, Coronavirus Pand
 
 Project steps:
 
-•	downloading COVID-19 data as csv file from Our World in Data. 
+•	downloading COVID-19 data as csv file from Our World in Data.
+
 •	Import COVID-19 data into SQL database.
+
 •	SQL Server for data cleaning, aggregation, transformation, and analysis. 
+
 •	Tableau for visualization
+
 •	Reporting
 
 Tools:
 
 •	MS Excel
+
 •	SQL Server
+
 •	Tableau 
 
 Total global infections and deaths
 
 •	Total Infections: 150,574,977
+
 •	Total Deaths: 3,180,206
+
 •	Death Rate: 2.11%
 
 Infection and death rate by continent
@@ -33,42 +41,55 @@ Infection and death rate by continent
 Africa:
 
 •	Total Infections: 4,557,699
+
 •	Total Deaths: 121,784
+
 •	Death Rate: 2.67%
 
 Asia:
 
 •	Total Infections: 39,526,308
+
 •	Total Deaths: 520,286
+
 •	Death Rate: 1.32%
 
 Europe:
 
 •	Total Infections: 44,863,478
+
 •	Total Deaths: 1,016,750
+
 •	Death Rate: 2.27%
 
 North America:
 
 •	Total Infections: 37,529,488
+
 •	Total Deaths: 847,942
+
 •	Death Rate: 2.26%
 
 Oceania:
 
 •	Total Infections: 43,570
+
 •	Total Deaths: 1,046
+
 •	Death Rate: 2.40%
 
 South America:
 
 •	Total Infections: 24,878,216
+
 •	Total Deaths: 672,415
+
 •	Death Rate: 2.70%
 
 Infection trend andfForecast in the United States alone.
 
 •	The graph shows a steady increase in infections from the initial outbreak to the current date.
+
 •	The infection rate peaked in April 2021 with a 9.77% infection rate but has since shown a slight decline.
 
 Infection Rate Comparison with Previous Period in the United States alone.
